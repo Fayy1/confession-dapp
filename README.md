@@ -139,6 +139,14 @@ This project is deployed on the **Stellar Testnet**.
 
 ---
 
+## 📌 Deployed Contract
+
+Contract ID:
+CDSKDJC5OYD3BCJPNJBIMPAPA32U67324OSLBTWQAZI2I34LK2YGM3L5
+
+Explorer:
+https://lab.stellar.org/r/testnet/contract/CDSKDJC5OYD3BCJPNJBIMPAPA32U67324OSLBTWQAZI2I34LK2YGM3L5
+
 ## 🔮 Future Improvements
 
 * 👤 Wallet-based identity (multi-user support)
